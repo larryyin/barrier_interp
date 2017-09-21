@@ -1,0 +1,3 @@
+$ tar -cvvzf test.tar.gz  video.avi
+$ split -v 5M test.tar.gz vid
+$ cat vid* > test.tar.gz

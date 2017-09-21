@@ -1,0 +1,6 @@
+module load anaconda3
+export GDAL_DATA=/usr/stevens/anaconda3/2.4.0/share/gdal
+#python inun4a.py >> log_inun4a.txt
+#python inun4b.py >> log_inun4b.txt
+#python inun4c.py >> log_inun4c.txt
+python inun4c_tile.py >> log_inun4c_tile.txt

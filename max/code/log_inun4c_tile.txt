@@ -1,0 +1,4 @@
+/usr/stevens/anaconda3/2.4.0/bin/python
+0...10...20...Generating Base Tiles:
+Creating tiles for Google Map...
+28260.005829572678

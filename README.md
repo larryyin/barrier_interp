@@ -2,7 +2,7 @@
 Fast spatial interpolation around barriers
 
 ## Demo
-[Visualization](http://hudson.dl.stevens-tech.edu/njdemo/ "Visualization")  
+[Interactive visualization](http://hudson.dl.stevens-tech.edu/njdemo/ "Interactive visualization")  
 
 ![alt text](https://github.com/larryyin/barrier_interp/blob/master/img/SI15_Larry_Yin.jpg "Demo")
 
